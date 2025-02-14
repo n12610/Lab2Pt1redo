@@ -1,16 +1,14 @@
-
 /**
  * This is the third part of lab 2 part one assignment. It creates a 
- * dimond * println statments
- * @since 13Feb2025
+ * dimond made of the * only using println statments.
  * @author Nick Williams, twilliams027@student.sdccd.edu
- * @version 1.1
+ * @version 1.2
+ * @since 14Feb2025
  */
 
 public class DimondShapeGeneratorLab2
 {
     {
-    //Print statments:
 
 System.out.println("\t   *"); 
 System.out.println("\t  ***");
